@@ -29,7 +29,7 @@ JPMorgan Chase & Co. Quantitative Research Virtual Experience Program on Forage
 
 
 JPMorgan Chase & Co. Quantitative Research
-Interview tip
+
 In every interview, you will likely be asked, “Why do you want to work here?” and “Why this role?” Use these interview tips to craft the perfect answer to these common questions.
 “Why are you interested in this role?”
 I recently participated in JPMorgan Chase & Co.'s Quantitative Research virtual job simulation on the Forage platform, and it was incredibly useful to understand what it might be like to work on a Quantitative Research team at JPMorgan Chase & Co.
