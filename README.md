@@ -48,6 +48,7 @@ Analyzed a book of loans to estimate a customer's probability of default
 Used dynamic programming to convert FICO scores into categorical data to predict defaults
 Check out the simulation here: https://www.theforage.com/simulations/jpmorgan/quantitative-research-11oc
 
+|__ natural_gas_prices.csv
 |__ Task_1.py
 |__ Task_2.py
 |__ Task_3.py
