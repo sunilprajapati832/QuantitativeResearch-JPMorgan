@@ -15,7 +15,6 @@ Python
 Statistics
 
 
-
 JPMorgan Chase & Co. Quantitative Research Virtual Experience Program on Forage
 - June 2025
 
