@@ -50,6 +50,7 @@ Check out the simulation here: https://www.theforage.com/simulations/jpmorgan/qu
 
 |__ natural_gas_prices.csv
 |__ Task_1.py
+|__ customer_loan_data.csv
 |__ Task_2.py
 |__ Task_3.py
 |__ Task_4.py
