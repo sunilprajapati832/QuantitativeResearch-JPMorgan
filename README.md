@@ -53,3 +53,4 @@ Check out the simulation here: https://www.theforage.com/simulations/jpmorgan/qu
 |__ Task_4.py
 |__ pd_model.pkl
 |__ scaler.pkl
+|__ bucketed_fico_output.csv
