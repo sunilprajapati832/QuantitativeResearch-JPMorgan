@@ -35,7 +35,6 @@ I worked on a project that involved forecasting and predictive modeling. I pract
 
 Doing this program confirmed that I really enjoy manipulating large data sets to inform business solutions and I’m excited to apply these skills on the Quantitative Research team at JPMorgan Chase & Co.
 
-
 Share with network
 Recruiters love to see and engage with candidates who’ve completed their job simulations on LinkedIn. This is a great way to begin networking!
 I just completed JPMorgan Chase & Co.'s Quantitative Research on Forage. In the simulation I:
