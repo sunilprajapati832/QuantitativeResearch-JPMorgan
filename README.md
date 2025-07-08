@@ -34,6 +34,7 @@ Doing this program confirmed that I really enjoy manipulating large data sets to
 
 Share with network
 Recruiters love to see and engage with candidates who’ve completed their job simulations on LinkedIn. This is a great way to begin networking!
+
 I just completed JPMorgan Chase & Co.'s Quantitative Research on Forage. In the simulation I:
 Completed a simulation focused on quantitative research methods 
 Analyzed a book of loans to estimate a customer's probability of default
