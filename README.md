@@ -2,7 +2,6 @@
 
 JPMorgan Chase &amp; Co. Quantitative Research Virtual Experience Program on Forage - June 2025
 
-
 I’m happy to share that I’ve obtained a new certification: JPMorgan Chase & Co. - Quantitative Research Job Simulation from Forage!
 
 Credit
