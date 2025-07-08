@@ -21,7 +21,6 @@ JPMorgan Chase & Co. Quantitative Research Virtual Experience Program on Forage
  * Used dynamic programming to convert FICO scores into categorical data to
    predict defaults
 
-
 JPMorgan Chase & Co. Quantitative Research
 
 In every interview, you will likely be asked, “Why do you want to work here?” and “Why this role?” Use these interview tips to craft the perfect answer to these common questions.
