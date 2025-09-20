@@ -280,6 +280,7 @@ if __name__ == '__main__':
         print(f"{k}: ${v:,.2f}")
 
 ```
+## Task_3
 
 ```python
 
