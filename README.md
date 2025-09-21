@@ -277,7 +277,6 @@ if __name__ == '__main__':
 ```
 
 ## Task_3
-
 ```python
 
 import pandas as pd
@@ -403,7 +402,6 @@ print(f"Expected Loss: ₹{expected_loss:.2f}")
 joblib.dump(best_model, "pd_model.pkl")
 joblib.dump(scaler, "scaler.pkl")
 print("\nModel and scaler saved successfully as pd_model.pkl and scaler.pkl")
-
 ```
 
 ## Task_4
