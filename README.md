@@ -42,8 +42,6 @@ Check out the simulation here: https://www.theforage.com/simulations/jpmorgan/qu
 
 ## Task_1
 ```python
-
-
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
@@ -125,9 +123,8 @@ plt.ylabel('Price')
 plt.legend()
 plt.grid(True)
 plt.show()
-
-
 ```
+
 ## Task_2
 ``` python
 
