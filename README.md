@@ -274,8 +274,8 @@ if __name__ == '__main__':
     print("\n---- Contract Evaluation Summary ----")
     for k, v in result.items():
         print(f"{k}: ${v:,.2f}")
-
 ```
+
 ## Task_3
 
 ```python
