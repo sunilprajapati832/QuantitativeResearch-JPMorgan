@@ -1,3 +1,22 @@
+## JPMorgan Quantitative Research Job Simulation
+JPMorgan Chase Co. Quantitative Research Virtual Experience Program on Forage - June 2025
+I’m happy to share that I’ve obtained a new certification: JPMorgan Chase & Co. - Quantitative Research Job Simulation from Forage!
+
+This repository contains my work from the JPMorgan Quantitative Research Virtual Internship (Job Simulation).
+The project focused on quantitative methods, probability of default modeling and credit risk analysis using Python.
+
+Credit | Critical Thinking | Data Analysis | Derivatives | Dynamic Programming | Python Programming | Statistics
+
+
+
+
+
+
+
+
+
+
+
 # QuantitativeResearch-JPMorgan
 
 JPMorgan Chase &amp; Co. Quantitative Research Virtual Experience Program on Forage - June 2025
