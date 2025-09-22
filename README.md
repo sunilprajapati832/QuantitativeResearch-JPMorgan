@@ -1,5 +1,6 @@
-## JPMorgan Quantitative Research Job Simulation
-JPMorgan Chase Co. Quantitative Research Virtual Experience Program on Forage - June 2025
+# QuantitativeResearch-JPMorgan
+
+JPMorgan Chase & Co. Quantitative Research Virtual Experience Program on Forage - June 2025
 I’m happy to share that I’ve obtained a new certification: JPMorgan Chase & Co. - Quantitative Research Job Simulation from Forage!
 
 This repository contains my work from the JPMorgan Quantitative Research Virtual Internship (Job Simulation).
@@ -7,6 +8,17 @@ The project focused on quantitative methods, probability of default modeling and
 
 Credit | Critical Thinking | Data Analysis | Derivatives | Dynamic Programming | Python Programming | Statistics
 
+## Task 1 – Time Series Forecasting of Natural Gas Prices
+
+Objective: Analyze natural gas price data, identify patterns/seasonality, and build a function to estimate prices for any given date (including future dates).
+
+Work Done: Cleaned and preprocessed monthly price data. 
+           Conducted seasonality analysis by month.
+           Interpolated missing daily data and extrapolated prices for Oct 2024 – Sept 2025 using seasonal naive forecasting.
+           Created a price estimation function to query any date within the historical & forecasted range.
+           Visualized original vs extrapolated price trends.
+
+Skills: Time Series Analysis, Data Cleaning, Seasonal Forecasting, Python (Pandas, Matplotlib, NumPy).
 
 
 
@@ -15,9 +27,7 @@ Credit | Critical Thinking | Data Analysis | Derivatives | Dynamic Programming |
 
 
 
-
-
-# QuantitativeResearch-JPMorgan
+# 
 
 JPMorgan Chase &amp; Co. Quantitative Research Virtual Experience Program on Forage - June 2025
 
