@@ -105,13 +105,26 @@ plt.grid(True)
 plt.show()
 ```
 
+## Task 2 – Pricing Generalized Storage Contracts
+
+### Objective: Build a model to evaluate the value of gas storage contracts by simulating injection, storage, and withdrawal strategies under dynamic price forecasts.
+
+### Work Done:
+* Implemented a generalized storage pricing model considering:
+Injection & withdrawal dates/rates | Maximum storage limits | Daily storage costs
+
+* Added FIFO (First-In-First-Out) inventory tracking for withdrawals.
+
+* Simulated multiple scenarios and produced contract evaluation reports (purchase cost, revenue, storage cost, net value).
+
+* Visualized storage balance levels over time.
+
+### Skills: Financial Modeling, Contract Valuation, Simulation, Logging for Transparency.
 
 
 
 
 
-
-# 
 
 JPMorgan Chase &amp; Co. Quantitative Research Virtual Experience Program on Forage - June 2025
 
