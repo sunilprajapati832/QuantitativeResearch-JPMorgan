@@ -111,7 +111,9 @@ plt.show()
 
 ### Work Done:
 * Implemented a generalized storage pricing model considering:
-Injection & withdrawal dates/rates | Maximum storage limits | Daily storage costs
+** Injection & withdrawal dates/rates 
+** Maximum storage limits
+** Daily storage costs
 
 * Added FIFO (First-In-First-Out) inventory tracking for withdrawals.
 
