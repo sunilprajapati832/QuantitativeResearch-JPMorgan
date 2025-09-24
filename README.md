@@ -319,7 +319,20 @@ Used dynamic programming to convert FICO scores into categorical data to predict
 Check out the simulation here: https://www.theforage.com/simulations/jpmorgan/quantitative-research-11oc
 
 
-## Task_3
+## Task 3 – Probability of Default (PD) Modeling
+
+### Objective: Estimate the probability of loan defaults using customer loan data and machine learning models.
+
+### Work Done:
+* Preprocessed loan data (missing value imputation, feature scaling).
+* Built and compared 3 models: Logistic Regression | Decision Tree | Random Forest
+* Evaluated models using Accuracy, ROC-AUC, Confusion Matrix, ROC Curve.
+* Selected the best-performing model (based on ROC-AUC).
+* Developed a function to compute Expected Loss = PD × Exposure × (1 – Recovery Rate).
+* Saved the trained model & scaler (pd_model.pkl, scaler.pkl).
+
+### Skills: Machine Learning, Classification Models, Credit Risk Analytics, Model Evaluation.
+
 ```python
 
 import pandas as pd
