@@ -8,7 +8,7 @@ The project focused on quantitative methods, probability of default modeling and
 
 Credit | Critical Thinking | Data Analysis | Derivatives | Dynamic Programming | Python Programming | Statistics
 
-## Task 1 – Time Series Forecasting of Natural Gas Prices
+## Task_1 – Time Series Forecasting of Natural Gas Prices
 
 ### Objective: Analyze natural gas price data, identify patterns/seasonality and build a function to estimate prices for any given date (including future dates).
 
@@ -105,7 +105,7 @@ plt.grid(True)
 plt.show()
 ```
 
-## Task 2 – Pricing Generalized Storage Contracts
+## Task_2 – Pricing Generalized Storage Contracts
 
 ### Objective: Build a model to evaluate the value of gas storage contracts by simulating injection, storage, and withdrawal strategies under dynamic price forecasts.
 
@@ -319,7 +319,7 @@ Used dynamic programming to convert FICO scores into categorical data to predict
 Check out the simulation here: https://www.theforage.com/simulations/jpmorgan/quantitative-research-11oc
 
 
-## Task 3 – Probability of Default (PD) Modeling
+## Task_3 – Probability of Default (PD) Modeling
 
 ### Objective: Estimate the probability of loan defaults using customer loan data and machine learning models.
 
@@ -460,7 +460,7 @@ joblib.dump(scaler, "scaler.pkl")
 print("\nModel and scaler saved successfully as pd_model.pkl and scaler.pkl")
 ```
 
-## Task 4 – Credit Risk Bucketing via FICO Scores
+## Task_4 – Credit Risk Bucketing via FICO Scores
 
 ### Objective: Transform continuous FICO credit scores into discrete risk categories (buckets) using quantitative optimization methods.
 
@@ -603,12 +603,14 @@ print("\nResult saved to bucketed_fico_output.csv")
 * Hands-on use of Python, Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib for research & modeling.
 * Understanding how quantitative research supports decision-making in risk management and financial markets.
 
-|__ natural_gas_prices.csv
-|__ Task_1.py
-|__ customer_loan_data.csv
-|__ Task_2.py
-|__ Task_3.py
-|__ Task_4.py
-|__ pd_model.pkl
-|__ scaler.pkl
-|__ bucketed_fico_output.csv
+## Repository Structure
+|__README.md
+|__Task_1.py   
+|__Task_2.py
+|__Task_3.py   
+|__Task_4.py
+|__bucketed_fico_output.csv 
+|__customer_loan_data.csv
+|__natural_gas_prices.csv  
+|__pd_model.pkl  
+|__scaler.pkl 
