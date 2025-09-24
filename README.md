@@ -460,7 +460,20 @@ joblib.dump(scaler, "scaler.pkl")
 print("\nModel and scaler saved successfully as pd_model.pkl and scaler.pkl")
 ```
 
-## Task_4
+## Task 4 – Credit Risk Bucketing via FICO Scores
+
+### Objective: Transform continuous FICO credit scores into discrete risk categories (buckets) using quantitative optimization methods.
+
+### Work Done:
+* Implemented two bucketing methods:
+* MSE-Based Bucketing → minimizes intra-bucket variance.
+* Log-Likelihood-Based Bucketing (Dynamic Programming) → maximizes separation of default risk.
+* Compared bucket boundaries and evaluated MSE loss.
+* Assigned each customer to MSE and Log-Likelihood buckets.
+* Exported final results to bucketed_fico_output.csv.
+
+### Skills: Dynamic Programming, Statistical Optimization, Risk Categorization, Data Export.
+
 ```Python
 
 import pandas as pd
