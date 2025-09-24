@@ -10,7 +10,7 @@ Credit | Critical Thinking | Data Analysis | Derivatives | Dynamic Programming |
 
 ## Task 1 – Time Series Forecasting of Natural Gas Prices
 
-### Objective: Analyze natural gas price data, identify patterns/seasonality, and build a function to estimate prices for any given date (including future dates).
+### Objective: Analyze natural gas price data, identify patterns/seasonality and build a function to estimate prices for any given date (including future dates).
 
 ### Work Done: 
 * Cleaned and preprocessed monthly price data. 
@@ -597,6 +597,11 @@ df.to_csv("bucketed_fico_output.csv", index=False)
 print("\nResult saved to bucketed_fico_output.csv")
 
 ```
+## Key Learnings
+* Practical exposure to quantitative research workflows in finance.
+* Strengthened expertise in time series forecasting, risk modeling and optimization techniques.
+* Hands-on use of Python, Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib for research & modeling.
+* Understanding how quantitative research supports decision-making in risk management and financial markets.
 
 |__ natural_gas_prices.csv
 |__ Task_1.py
