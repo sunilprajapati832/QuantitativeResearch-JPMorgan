@@ -605,12 +605,12 @@ print("\nResult saved to bucketed_fico_output.csv")
 
 ## Repository Structure
 |__README.md
-|__Task_1.py   
+|__Task_1.py
 |__Task_2.py
-|__Task_3.py   
+|__Task_3.py
 |__Task_4.py
-|__bucketed_fico_output.csv 
+|__bucketed_fico_output.csv
 |__customer_loan_data.csv
-|__natural_gas_prices.csv  
-|__pd_model.pkl  
-|__scaler.pkl 
+|__natural_gas_prices.csv
+|__pd_model.pkl
+|__scaler.pkl
