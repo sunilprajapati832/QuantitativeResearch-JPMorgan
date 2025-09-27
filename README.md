@@ -113,6 +113,8 @@ plt.legend()
 plt.grid(True)
 plt.show()
 ```
+!()[]
+
 
 ## Task_2 – Pricing Generalized Storage Contracts
 
