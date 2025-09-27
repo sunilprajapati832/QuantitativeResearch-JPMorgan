@@ -113,7 +113,8 @@ plt.legend()
 plt.grid(True)
 plt.show()
 ```
-!()[]
+![GraphPreview](Figure_1MonthlyNaturalGasPrices.png)
+
 
 
 ## Task_2 – Pricing Generalized Storage Contracts
