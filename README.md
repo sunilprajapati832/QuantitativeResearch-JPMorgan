@@ -116,6 +116,7 @@ plt.show()
 ![GraphPreview](Figure_1MonthlyNaturalGasPrices.png)
 ![GraphPreview](Figure_2AveragePricebyMonth(Seasonality).png)
 ![GraphPreview](Figure_3NaturalGasPriceEstimateWithExtrapolation.png)
+![ConsoleResultPreview](Task_1ResultOnConsole.png)
 
 
 
