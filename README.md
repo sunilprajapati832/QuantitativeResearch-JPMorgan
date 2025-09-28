@@ -289,6 +289,8 @@ if __name__ == '__main__':
         print(f"{k}: ${v:,.2f}")
 ```
 
+![Graph Preview](StorageBalanceOverTime.png)
+
 ## Task_3 – Probability of Default (PD) Modeling
 
 ### Objective: Estimate the probability of loan defaults using customer loan data and machine learning models.
