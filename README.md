@@ -290,6 +290,7 @@ if __name__ == '__main__':
 ```
 
 ![Graph Preview](StorageBalanceOverTime.png)
+![Console Result](Task_2ConsoleResult.png)
 
 ## Task_3 – Probability of Default (PD) Modeling
 
