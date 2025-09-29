@@ -433,7 +433,7 @@ joblib.dump(scaler, "scaler.pkl")
 print("\nModel and scaler saved successfully as pd_model.pkl and scaler.pkl")
 ```
 
-![]()
+![Graph Preview](ROC_CurveComparison.png)
 ![]()
 ![]()
 
