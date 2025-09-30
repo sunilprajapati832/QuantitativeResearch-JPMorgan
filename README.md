@@ -435,7 +435,7 @@ print("\nModel and scaler saved successfully as pd_model.pkl and scaler.pkl")
 
 ![Graph Preview](ConfusionMatrix_LogisticRegression.png)
 ![Graph_Preview](ROC_CurveComparison.png)
-![]()
+![Console_Preview](Task_3Console.png)
 
 
 ## Task_4 – Credit Risk Bucketing via FICO Scores
