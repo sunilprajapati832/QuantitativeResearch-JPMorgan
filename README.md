@@ -437,7 +437,6 @@ print("\nModel and scaler saved successfully as pd_model.pkl and scaler.pkl")
 ![Graph_Preview](ROC_CurveComparison.png)
 ![Console_Preview](Task_3Console.png)
 
-
 ## Task_4 – Credit Risk Bucketing via FICO Scores
 
 ### Objective: Transform continuous FICO credit scores into discrete risk categories (buckets) using quantitative optimization methods.
