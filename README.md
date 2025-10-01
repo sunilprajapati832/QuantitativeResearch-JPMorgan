@@ -574,6 +574,10 @@ df.to_csv("bucketed_fico_output.csv", index=False)
 print("\nResult saved to bucketed_fico_output.csv")
 
 ```
+
+![Console_Preview](Task_4.png)
+
+
 ## Key Learnings
 * Practical exposure to quantitative research workflows in finance.
 * Strengthened expertise in time series forecasting, risk modeling and optimization techniques.
