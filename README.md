@@ -288,7 +288,6 @@ if __name__ == '__main__':
     for k, v in result.items():
         print(f"{k}: ${v:,.2f}")
 ```
-
 ![Graph Preview](StorageBalanceOverTime.png)
 ![Console Result](Task_2ConsoleResult.png)
 
